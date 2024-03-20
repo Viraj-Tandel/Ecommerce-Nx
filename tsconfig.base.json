@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@ecommerce-express/category": ["libs/category/src/index.ts"],
       "@ecommerce-express/home": ["libs/home/src/index.ts"]
     }
   },
